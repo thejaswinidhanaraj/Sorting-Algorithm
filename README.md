@@ -42,7 +42,6 @@ list_of_nums = eval(input())
 print(selection_sort(list_of_nums))
 # use the selection sort function
 # print the sorted list
-
 ```
 ii)	#Insertion Sort
 ```
@@ -68,13 +67,9 @@ insertion_sort(list_of_nums)
 print(list_of_nums)
 # use the insertion sort function to get the sorted list
 # print the sorted list
-
 ```
 
-## Output:
-![Screenshot 2023-12-30 084050](https://github.com/thejaswinidhanaraj/Sorting-Algorithm/assets/148514511/18bc3e69-9df5-4c25-a6b4-a09a54bc6171)
-
-![image](https://github.com/thejaswinidhanaraj/Sorting-Algorithm/assets/148514511/eae1dd7d-574e-43bd-bdc9-c4e4f1a0089c)
+## Output:![Screenshot 2023-12-30 084050](https://github.com/thejaswinidhanaraj/Sorting-Algorithm/assets/148514511/18bc3e69-9df5-4c25-a6b4-a09a54bc6171)![image](https://github.com/thejaswinidhanaraj/Sorting-Algorithm/assets/148514511/eae1dd7d-574e-43bd-bdc9-c4e4f1a0089c)
 
 
 
